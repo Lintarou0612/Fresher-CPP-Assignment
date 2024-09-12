@@ -1,0 +1,6 @@
+Triangle 1: Perimeter = 41.274400, Area = 17.690000
+Rectangle 1: Perimeter = 60.000000, Area = 200.000000
+Ellipse 1: Perimeter = 51.438927, Area = 113.040000
+Circle 1: Perimeter = 94.200000, Area = 706.500000
+Triangle 2: Perimeter = 40.630169, Area = 5.850000
+Ellipse 2: Perimeter = 51.438927, Area = 113.040000
